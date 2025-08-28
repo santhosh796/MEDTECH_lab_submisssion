@@ -1,0 +1,5 @@
+Gain confidence with GitHub basics – I want to learn how to create repositories, commit changes, push/pull code, and manage branches so I can collaborate effectively with others on coding projects.
+
+Set up and customize my development environment – My goal is to properly configure tools like a code editor (e.g., VS Code), Git, and terminal so my workflow is smooth and efficient.
+
+Develop good version control habits – I want to practice writing meaningful commit messages, using pull requests, and handling merge conflicts to build a professional workflow that I can carry into real-world projects.
